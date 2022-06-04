@@ -8,3 +8,6 @@ This singleplayer game was made for a 5-hour game jam hosted by CyberSoc in coll
 - Cainos on itch.io: tileset
 - ansimuz on itch.io: menu background
 - mounirtohami on itch.io: menu buttons
+
+## Techonologies used
+- Unity 2D v2020.3.27f1
